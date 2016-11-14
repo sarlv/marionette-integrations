@@ -24,6 +24,7 @@ Example marionette apps using multiple dependency tools.
 
  ### Commands
 
+ * yo marionette-integrations:app --webpack
  * yo marionette-integrations:app --browserify
  * yo marionette-integrations:app --browserify-gulp
  * yo marionette-integrations:app --browserify-grunt
